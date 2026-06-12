@@ -1,4 +1,4 @@
-# Student REST API
+# Student REST API - Author - Binay P
 
 ## 📌 Objective
 The objective of this project is to build a robust, scalable RESTful API using Spring Boot to manage university records, specifically tracking **Students** and their corresponding **Courses**. It implements clean separation of concerns using a Controller-Service-Repository architecture pattern, features an automated relational database mapping to MySQL, and includes robust global exception handlers to manage errors gracefully.
